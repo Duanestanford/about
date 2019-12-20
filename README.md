@@ -5,7 +5,7 @@ Duane Stanford is a writer, performer, and full-stack developer from Atlanta, GA
 
 # Book List
 
-### Here are my top 10 favorite books of all time:
+### Here are my top 10 favorite books:
 
 1. Origin Story (Christian)
 2. The Big Picture (Carroll)
